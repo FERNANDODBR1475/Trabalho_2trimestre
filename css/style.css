@@ -7,7 +7,7 @@
 
 body {
     background-color: black;
-
+    margin-top:80px;
 }
 
 .menu {
@@ -25,8 +25,10 @@ body {
 
 }
 .logo-2{
-    width: 100px;
-    display: flex;
+    width: 500px;
+    float: right;
+    margin-right: 80px;
+
     
 
 }
